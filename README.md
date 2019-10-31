@@ -154,3 +154,4 @@ A collection of functions useful for making prose reader friendly is already inc
 
 - I'd like to add a Nunjucks Markdown package of some sort to allow adding/editing of basic text in Markdown, perhaps with front-matter. Would prefer to hook up through Google Docs. See [Issue 17](https://github.com/utdata/icj-project-template/issues/17).
 - I'd like to loop through data to create detail pages.
+# taylorsprinkle-staticapp
