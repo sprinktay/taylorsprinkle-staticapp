@@ -1,16 +1,19 @@
 {
-  "books": [
+  "entries": [
     {
-      "title": "The Clown",
-      "author": "Heinrich Böll"
+      "date": "October 18, 2019",
+      "url": "2019-10-18.html",
+      "title": "It was a dark and stormy night"
     },
     {
-      "title": "The Shipping News",
-      "author": "Annie Proulx"
+      "date": "October 19, 2019",
+      "url": "2019-10-19.html",
+      "title": "It was a mild night."
     },
     {
-      "title": "The Hearing Trumpet",
-      "author": "Leonora Carrington"
+      "date": "October 20, 2019",
+      "url": "2019-10-20.html",
+      "title": "It was a crisp and windy night."
     }
   ]
 }

@@ -4,12 +4,18 @@
 <article class="container">
   <div class="row">
     <div class="col-sm-4 left-rail">
-      {% block info %}{% endblock %}
+   {% block info %}
+  <img src="img/pirate.jpg" alt="pirate character" class="img-fluid">
+  <p class="byline">By Taylor Sprinkle<br>
+  <span>Island Times</span></p>
+{% endblock %}
     </div>
     <div class="col-sm-8">
-      {% block story %}{% endblock %}
+      {% block story %} {% endblock %}
 
     </div>
   </div>
 </article>
 {% endblock %}
+
+
